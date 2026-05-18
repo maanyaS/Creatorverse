@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install *)",
+      "Bash(mv src/components/card.js src/components/Card.jsx)",
+      "Bash(mv src/pages/AddCreator.js src/pages/AddCreator.jsx)",
+      "Bash(mv src/pages/EditCreator.js src/pages/EditCreator.jsx)",
+      "Bash(mv src/pages/ShowCreators.js src/pages/ShowCreators.jsx)",
+      "Bash(mv src/pages/ViewCreator.js src/pages/ViewCreator.jsx)"
+    ]
+  }
+}
